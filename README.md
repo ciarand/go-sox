@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # gosox
 
 > "SoX − Sound eXchange, the Swiss Army knife of audio manipulation"
